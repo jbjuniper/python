@@ -1,3 +1,5 @@
+# JBOCK Juniper Python Homework #1 060320
+
 import math
 
 
